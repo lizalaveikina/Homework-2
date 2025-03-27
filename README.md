@@ -2,7 +2,8 @@
 
 # FastAPI Microservices Architecture — Homework Assignment
 
-This project demonstrates a simple microservice architecture using **FastAPI**. It consists of three independent microservices communicating via HTTP, with one public-facing service protected by token-based authentication.
+This project demonstrates a simple microservice architecture using **FastAPI**. 
+It consists of three independent microservices communicating via HTTP, with one public-facing service protected by token-based authentication.
 
 ---
 
