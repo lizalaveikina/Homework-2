@@ -1,6 +1,6 @@
-# Homework-2
+# Homework 2
 
-# FastAPI Microservices Architecture — Homework Assignment
+# Basic REST-based application with Token authentication
 
 This project demonstrates a simple microservice architecture using **FastAPI**. 
 It consists of three independent microservices communicating via HTTP, with one public-facing service protected by token-based authentication.
